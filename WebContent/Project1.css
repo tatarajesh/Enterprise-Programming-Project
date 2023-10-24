@@ -1,0 +1,29 @@
+.login{
+	background:black;color:white;
+	border-radius: 12px;  
+	 border:1.5px solid yellow;
+ 	font-size:22px;
+	cursor: pointer;
+ 	}
+ 
+
+.loginhover:hover{
+background-color:brown;
+font-size:35px;
+ border:3px solid skyblue;
+cursor: pointer;
+font-family:Didot;
+font-variant: small-caps;
+}
+
+td{width:70px;
+height:35px;}
+
+
+
+.gobackk
+{
+	position:relative;
+	border:2px solid grey;
+}
+
