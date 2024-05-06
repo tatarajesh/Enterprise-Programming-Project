@@ -1,6 +1,7 @@
 This project aims to develop a web-based application to manage ongoing events at a University.
 
-Students and Staff: Users can create accounts to access a comprehensive listing of upcoming university events. 
+Students: Users can create accounts to access a comprehensive listing of upcoming university events. 
+
 Event Organizers: A dedicated event management dashboard will empower authorized personnel to:
 - Create and publish event details including descriptions, dates, and times.
 - Manage event registration processes.
